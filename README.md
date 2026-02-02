@@ -21,6 +21,8 @@ Repository này đóng vai trò là hồ sơ trung tâm (entity hub) nhằm gi�
 
 - Website chính: https://thutucnhadat.com.vn  
 - GitHub Profile: https://github.com/thutucnhadat
+- Google Sites Entity Profile:
+- [https://sites.google.com/...](https://sites.google.com/view/thutucnhadat)
 
 ---
 
