@@ -24,6 +24,7 @@ Repository này đóng vai trò là hồ sơ trung tâm (entity hub) nhằm gi�
 - Google Sites Entity Profile:
 - [https://sites.google.com/...](https://sites.google.com/view/thutucnhadat)
 
----
+- Qiita Profile:
+- [https://qiita.com/username](https://qiita.com/thutucnhadat)
 
 Nội dung tại đây mang tính chất giới thiệu doanh nghiệp và xác thực thực thể, không sử dụng cho mục đích quảng cáo dịch vụ.
