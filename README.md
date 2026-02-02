@@ -21,10 +21,14 @@ Repository này đóng vai trò là hồ sơ trung tâm (entity hub) nhằm gi�
 
 - Website chính: https://thutucnhadat.com.vn  
 - GitHub Profile: https://github.com/thutucnhadat
+
 - Google Sites Entity Profile:
 - [https://sites.google.com/...](https://sites.google.com/view/thutucnhadat)
 
 - Qiita Profile:
 - [https://qiita.com/username](https://qiita.com/thutucnhadat)
 
+- Official Company Profile
+- [https://thutucnhadat.gitbook.io/thanh-cong-real-estate-company-profile/](https://thutucnhadat.gitbook.io/thanh-cong-real-estate-company-profile)
+  
 Nội dung tại đây mang tính chất giới thiệu doanh nghiệp và xác thực thực thể, không sử dụng cho mục đích quảng cáo dịch vụ.
