@@ -30,5 +30,8 @@ Repository này đóng vai trò là hồ sơ trung tâm (entity hub) nhằm gi�
 
 - Official Company Profile
 - [https://thutucnhadat.gitbook.io/thanh-cong-real-estate-company-profile/](https://thutucnhadat.gitbook.io/thanh-cong-real-estate-company-profile)
-  
-Nội dung tại đây mang tính chất giới thiệu doanh nghiệp và xác thực thực thể, không sử dụng cho mục đích quảng cáo dịch vụ.
+
+- Property Legal Reference (Hashnode):
+- https://thutucnhadat.hashnode.dev/thanh-cong-real-estate-property-legal-reference-in-vietnam
+
+- Nội dung tại đây mang tính chất giới thiệu doanh nghiệp và xác thực thực thể, không sử dụng cho mục đích quảng cáo dịch vụ.
